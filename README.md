@@ -1,18 +1,23 @@
 Hi, My name is @kenerfr and I'm
   Full Stack Developer. 
+  
+Resumo de Qualificações
 
-My Skills : 
+• Desenvolvimento Front - End.
+• Desenvolvimento Back - End. 
+• Conhecimento em Cloud : Aws 
+• Banco de dados - Nosql,Mysql, Postgre,MariaDB.
+• Metologias ágeis: Kanbam , SCRUM . 
+• Linguagens:HTML, CSS, Javascript,Vue.js , React js, PHP, .Net ,React native ,Typescript ,Python.
+• Sass.
+•  Frameworks : Angular , Bootstrap , Express js, Laravel , node js.
+•  Api- Get, Post , Put and Patch.
+•  Github 
+•  MVC 
+• Orientação a  objetos .
+• Noções de CRM. 
 
-•  Development Front - End.                                 
-•  Development  Back - End. 
 
-• Cloud : Aws      
-• Metodologias ágeis: Kanbam , CRM .                        
-• HTML, CSS, Javascript,Vue.js ,PHP. 
-
-• Frameworks : Angular , Bootstrap , ExpressJS, Laravel .
-• Api - Get, Post ,Put and Patch
-• Bancos de Dados : Mysql
 
 <!---
 kenerfr/kenerfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
